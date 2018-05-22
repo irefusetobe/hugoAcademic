@@ -2,7 +2,7 @@
 # About/Biography widget.
 widget = "about"
 active = true
-date = 2016-04-20T00:00:00
+date = 2018-05-21T00:00:00
 
 # Order that this section will appear in.
 weight = 7
@@ -10,31 +10,32 @@ weight = 7
 # List your academic interests.
 [interests]
   interests = [
-    "Something else",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Sociology of Knowledge",
+    "Social Inequality (status, prestige, education)",
+    "Cultural Sociology",
+    "Sociology of Academia",
+    "Science & Technology Studies"
+    "Chinese Studies"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD student in Sociology"
+  institution = "Cornell University"
+  year = 2017-
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "MSc in Sociology"
+  institution = "University of Oxford"
+  year = 2016
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "BA in Communications"
+  institution = "Fudan University"
+  year = 2014
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+How do social agents organize the (e)valuation of nonmarket goods, such as a scientific theory or a person’s moral worth? How do hierarchical relationships emerge from these evaluative practices? I am a sociology PhD student at Cornell whose interests lie at the intersection of inequality, culture and knowledge. Broadly, I study individuals’ sense-making of the everyday world, and the link between individuals’ beliefs and social action. I draw on quantitative, ethnographic, and computational methods to answer my research questions. 
