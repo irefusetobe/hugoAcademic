@@ -10,9 +10,9 @@ weight = 5
 # List your academic interests.
 [interests] 
 interests = [
-    "Social Inequality",
     "Cultural Sociology",
-    "Sociology of Knowledge and Science",
+    "Social Inequality", 
+    "Science, Knowledge and Profession",
     "Chinese Studies"
   ]
 
