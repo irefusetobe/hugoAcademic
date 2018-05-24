@@ -5,16 +5,16 @@ active = true
 date = 2018-05-21T00:00:00
 
 # Order that this section will appear in.
-weight = 7
+weight = 5
 
 # List your academic interests.
-[interests]
-  interests = [
+[interests] 
+interests = [
     "Sociology of Knowledge",
-    "Social Inequality (status, prestige, education)",
+    "Social Inequality",
     "Cultural Sociology",
     "Sociology of Academia",
-    "Science & Technology Studies"
+    "Science & Technology Studies",
     "Chinese Studies"
   ]
 
