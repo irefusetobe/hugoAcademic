@@ -22,7 +22,7 @@ interests = [
 [[education.courses]]
   course = "PhD student in Sociology"
   institution = "Cornell University"
-  year = since 2017
+  year = 2022
 
 [[education.courses]]
   course = "MSc in Sociology"
