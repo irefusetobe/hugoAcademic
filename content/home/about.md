@@ -12,7 +12,8 @@ weight = 5
 interests = [
     "Cultural Sociology",
     "Social Inequality", 
-    "Science, Knowledge and Profession",
+    "Sociology of Knowledge",
+    "Science and Professions",
     "Chinese Studies"
   ]
 
