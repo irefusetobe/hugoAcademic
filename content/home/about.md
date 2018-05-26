@@ -37,6 +37,6 @@ interests = [
 
 # Biography
 
-How do social agents (e)valuate cultural goods, be it a scientific theory or a person’s moral judgments? How do hierarchical relationships emerge from these (e)valuative practices? I am a sociology PhD student at Cornell. My interests lie at the intersection of inequality, culture, and knowledge. Ultimately, my goal is to understand individuals’ sense making of the everyday world, and the link between individuals’ beliefs and social action. I draw on quantitative, ethnographic, and computational methods to answer my research questions. 
+How do social agents (e)valuate intangibles, be it a scientific theory or a person’s moral judgments? How do hierarchical relationships give rise to and emerge from these (e)valuative practices? I am a sociology PhD student at Cornell. My interests lie at the intersection of inequality, culture, and knowledge. Ultimately, my goal is to understand variations in individuals’ sense making of the everyday world, and the link between individuals' beliefs and social action. I draw on quantitative, ethnographic, and computational methods to answer my research questions. 
 
 I grew up in Nanjing, a historical city in East China. I hold a master’s in Sociology from Oxford University and a B.A. in Communication at Fudan University, Shanghai. As an undergraduate, I was obsessed with continental philosophy, especially Kant. The idea of a sociology career began to fascinate me during my senior year, when I first read the works of Michèle Lamont and Eva Illouz.
