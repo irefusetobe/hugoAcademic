@@ -3,7 +3,7 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "/"
+baseurl = "https://xuewen.alecmcgail.com//"
 
 # Title of your site
 title = "Xuewen (Shelley) Yan"
@@ -47,11 +47,11 @@ enableGitInfo = false
 [params]
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `coffee`, `dark`, or `1950s`.
-  color_theme = "forest"
+  color_theme = "1950s"
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
-  font = "playfair"
+  font = "classic"
 
   # Your details.
   name = "Xuewen (Shelley) Yan"
@@ -92,10 +92,10 @@ enableGitInfo = false
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  map = 0
-  map_api_key = ""
-  latitude = "37.4275"
-  longitude = "-122.1697"
+  map = 1
+  map_api_key = "AIzaSyBzROAXnDoepLduuM8mHzCDof2Tdz8je_8"
+  latitude = "42.447484"
+  longitude = "-76.482208"
   zoom = 15
 
   # Date and time format (refer to Go's date format: http://fuckinggodateformat.com )
@@ -111,7 +111,7 @@ enableGitInfo = false
   comment_count = true
 
   # Display next/previous section pager?
-  section_pager = false
+  section_pager = true
 
   # Enable global LaTeX math rendering?
   #   If false, you can enable it locally on a per page basis.
@@ -144,9 +144,9 @@ enableGitInfo = false
   #
   #   For more info on the highlighting options, see:
   #   https://sourcethemes.com/academic/post/writing-markdown-latex/#highlighting-options
-  highlight = false
+  highlight = true
   highlight_languages = []
-  # highlight_style = "github"
+  highlight_style = "github"
 
   # Enable native social sharing buttons?
   sharing = true
@@ -184,22 +184,22 @@ enableGitInfo = false
     time = true
 
   # Configuration of publication pages.
-  #[params.publications]
+  [params.publications]
     # Date format (refer to Go's date format: http://fuckinggodateformat.com )
     #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
-   # date_format = "January, 2006"
+    date_format = "January, 2006"
 
   # Configuration of project pages.
-#  [params.projects]
+  [params.projects]
     # List publications and talks related to the project?
- #   list_children = true
+    list_children = true
 
     # Publication list format.
-    #   0 = Simple
-    #   1 = Detailed
-    #   2 = APA
-    #   3 = MLA
-#    publication_format = 3
+       0 = Simple
+       1 = Detailed
+       2 = APA
+       3 = MLA
+    publication_format = 2
 
   # Social/Academic Networking
   #
@@ -230,7 +230,7 @@ enableGitInfo = false
 #   The weight parameter defines the order that the links will appear in.
 [params.menus]
   # Align the main menu to the right of the page? (true/false)
-  align_right = true
+  align_right = false
 
 [[menu.main]]
   name = "Home"
