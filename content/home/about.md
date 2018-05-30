@@ -47,7 +47,3 @@ I grew up in Nanjing, a historical city in East China. I studied under the tutel
 
 [Fudan]:http://www.fudan.edu.cn/en/
 [a sociology PhD student at Cornell]:http://sociology.cornell.edu/
-
-
-
-#I grew up in Nanjing, a historical city in East China. I hold a master’s in Sociology from Oxford University and a B.A. in Communication at Fudan University, Shanghai. As an undergraduate, I was obsessed with continental philosophy, especially Kant. The idea of a sociology career began to fascinate me during my senior year, when I first read the works of Michèle Lamont and Eva Illouz.
