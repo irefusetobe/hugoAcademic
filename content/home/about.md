@@ -39,11 +39,11 @@ interests = [
 
 How do social agents (e)valuate intangibles, be it a scientific theory or a person’s moral judgments? How do hierarchical relationships give rise to and emerge from these (e)valuative practices? I am [a sociology PhD student at Cornell]. My interests lie at the intersection of inequality, culture, and knowledge. Ultimately, my goal is to understand variations in people's sense making of the everyday world, and the link between individuals' beliefs and social action. I draw on quantitative, ethnographic, and computational methods to answer my research questions. 
 
-I grew up in Nanjing, a historical city in East China. I studied under the tutelage of [Professor Colin Mills] for a master’s in Sociology at [Oxford], after completing a B.A. in Communication at [Fudan] supervised by [Professor Jin Cao]. As an undergraduate, I was obsessed with continental philosophy, especially Kant. The idea of a sociology career began to fascinate me during my senior year, when I first read the works of Michèle Lamont and Eva Illouz.
+I grew up in Nanjing, a historical city in East China. After a B.A. in [Communication at Fudan] supervised by [Professor Jin Cao], I completed a Master’s in [Sociology at Oxford] under the tutelage of [Professor Colin Mills]. As an undergraduate, I was obsessed with continental philosophy, especially Kant. The idea of a sociology career began to fascinate me during my senior year, when I first read the works of Michèle Lamont and Eva Illouz.
 
 [Professor Colin Mills]:https://www.sociology.ox.ac.uk/academic-staff/colin-mills.html
 [Professor Jin Cao]:https://harvard-yenching.org/scholars/cao-jin
-[Oxford]:https://www.sociology.ox.ac.uk/
+[Sociology at Oxford]:https://www.sociology.ox.ac.uk/
 
-[Fudan]:http://www.fudan.edu.cn/en/
+[Communication at Fudan]:http://www.fudan.edu.cn/en/
 [a sociology PhD student at Cornell]:http://sociology.cornell.edu/
