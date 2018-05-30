@@ -4,7 +4,9 @@ widget = "hero"
 active = true
 date = 2017-10-15T00:00:00
 
-title = "Welcome, I'm Shelley! 欢迎访问，我是雪文！"
+title = "Welcome, I'm Shelley! 
+
+欢迎访问，我是雪文！"
 # Order that this section will appear in.
 weight = 3
 
